@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3134732261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93fc9fbad48040d18f447723933dcafb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 637159875725ce6f9df80da574a60460
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/Prefab/UIHall.prefab
+Dependencies:
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/btn1_1.png.bundle
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/tick.png.bundle
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/btn_level1.png.bundle
+- "/Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-w05.ttf.bundle"

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 496315112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8902e2b85fc426ae9d30cf74f397ba33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/Animation/win.anim
+Dependencies: []

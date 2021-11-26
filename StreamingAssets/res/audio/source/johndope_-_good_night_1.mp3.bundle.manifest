@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2691478268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff3676466c151e1835e9cad856c1e26c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Audio/Source/JohnDope_-_Good_Night_1.mp3
+Dependencies: []

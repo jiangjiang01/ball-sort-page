@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 4089563658
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: res/game/image/ball_red.png.bundle
+      Dependencies: {}
+    Info_1:
+      Name: res/ui/images/btn1_1.png.bundle
+      Dependencies: {}
+    Info_2:
+      Name: res/game/prefab/ball.prefab.bundle
+      Dependencies:
+        Dependency_0: res/game/image/ball_blue.png.bundle
+    Info_3:
+      Name: res/ui/animation/win.anim.bundle
+      Dependencies: {}
+    Info_4:
+      Name: res/game/image/bottle.png.bundle
+      Dependencies: {}
+    Info_5:
+      Name: res/game/image/ball_blue.png.bundle
+      Dependencies: {}
+    Info_6:
+      Name: res/ui/prefab/uiroot.prefab.bundle
+      Dependencies: {}
+    Info_7:
+      Name: res/ui/images/btn_close1.png.bundle
+      Dependencies: {}
+    Info_8:
+      Name: res/ui/prefab/uihall.prefab.bundle
+      Dependencies:
+        Dependency_0: res/ui/images/btn1_1.png.bundle
+        Dependency_1: res/ui/images/tick.png.bundle
+        Dependency_2: res/ui/images/btn_level1.png.bundle
+        Dependency_3: "res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-w05.ttf.bundle"
+    Info_9:
+      Name: res/effect/prefab/explore.prefab.bundle
+      Dependencies: {}
+    Info_10:
+      Name: res/game/prefab/bottle.prefab.bundle
+      Dependencies:
+        Dependency_0: res/game/image/bottle.png.bundle
+    Info_11:
+      Name: res/ui/images/btn_level_passed1.png.bundle
+      Dependencies: {}
+    Info_12:
+      Name: res/game/image/ball_purple.png.bundle
+      Dependencies: {}
+    Info_13:
+      Name: res/ui/images/tick.png.bundle
+      Dependencies: {}
+    Info_14:
+      Name: res/config/position.json.bundle
+      Dependencies: {}
+    Info_15:
+      Name: res/ui/prefab/uigameresult.prefab.bundle
+      Dependencies:
+        Dependency_0: res/ui/images/btn1_1.png.bundle
+        Dependency_1: res/ui/animation/win_controller.controller.bundle
+        Dependency_2: "res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-w05.ttf.bundle"
+        Dependency_3: res/ui/images/title2.png.bundle
+        Dependency_4: res/ui/images/radiance2.png.bundle
+    Info_16:
+      Name: res/ui/prefab/uigame.prefab.bundle
+      Dependencies:
+        Dependency_0: res/ui/images/btn1_1.png.bundle
+        Dependency_1: "res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-w05.ttf.bundle"
+    Info_17:
+      Name: res/config/levels.json.bundle
+      Dependencies: {}
+    Info_18:
+      Name: res/ui/animation/win_controller.controller.bundle
+      Dependencies:
+        Dependency_0: res/ui/animation/win.anim.bundle
+    Info_19:
+      Name: res/config/resource.json.bundle
+      Dependencies: {}
+    Info_20:
+      Name: res/ui/images/btn_level1.png.bundle
+      Dependencies: {}
+    Info_21:
+      Name: res/game/image/ball_yellow.png.bundle
+      Dependencies: {}
+    Info_22:
+      Name: res/game/image/ball_orange.png.bundle
+      Dependencies: {}
+    Info_23:
+      Name: res/game/image/ball_green.png.bundle
+      Dependencies: {}
+    Info_24:
+      Name: res/ui/images/icon_setting2.png.bundle
+      Dependencies: {}
+    Info_25:
+      Name: "res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-w05.ttf.bundle"
+      Dependencies: {}
+    Info_26:
+      Name: res/ui/images/mask_troop.png.bundle
+      Dependencies: {}
+    Info_27:
+      Name: res/ui/images/title2.png.bundle
+      Dependencies: {}
+    Info_28:
+      Name: res/audio/source/johndope_-_good_night_1.mp3.bundle
+      Dependencies: {}
+    Info_29:
+      Name: res/ui/images/radiance2.png.bundle
+      Dependencies: {}
+    Info_30:
+      Name: res/ui/prefab/uimenu.prefab.bundle
+      Dependencies:
+        Dependency_0: res/ui/images/btn1_1.png.bundle
+        Dependency_1: res/ui/images/btn_close1.png.bundle
+        Dependency_2: res/ui/images/tick.png.bundle

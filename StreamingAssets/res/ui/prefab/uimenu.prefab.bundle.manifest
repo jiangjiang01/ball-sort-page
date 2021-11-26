@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 780192438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 986b43921ff9c0d46ba7b994ede67eeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a9c1d9f4fc3a6903c82556162ec68d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/UI/Prefab/UIMenu.prefab
+Dependencies:
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/btn1_1.png.bundle
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/btn_close1.png.bundle
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/ui/images/tick.png.bundle

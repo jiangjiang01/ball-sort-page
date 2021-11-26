@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1738178514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a1d672ae7fa38aede618560b699973c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Game/Image/ball_red.png
+Dependencies: []

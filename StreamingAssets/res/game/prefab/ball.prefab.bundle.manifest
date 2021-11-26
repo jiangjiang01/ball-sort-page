@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1402519062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 702af77e79f80685b09c70d928c75917
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e8bce8914f7212f6b4525bc1ea41a42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Game/Prefab/Ball.prefab
+Dependencies:
+- /Users/jiangjiang/Desktop/unity/ball-sort/Build/Assetbundle/res/game/image/ball_blue.png.bundle

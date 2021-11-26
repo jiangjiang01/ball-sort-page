@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1175235825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a54747d632d8372b61b44ce16f8e3551
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Game/Image/ball_purple.png
+Dependencies: []

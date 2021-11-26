@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2592973346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb71fd32e7b62db40d5bb0b315f088c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ce36ba0d2af6073be95f6cdd155d58c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Res/font/\u7AD9\u9177\u4ED3\u8033\u6E14\u9633\u4F53-W05.ttf"
+Dependencies: []
